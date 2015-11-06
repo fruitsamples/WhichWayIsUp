@@ -11,12 +11,12 @@ After the application launches, the user can rotate the device to portrait, land
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Mac OS X 10.5.3, Xcode 3.1, iPhone OS 2.0
+iOS 4.0 SDK
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-Mac OS X 10.5.3, iPhone OS 2.0
+iPhone OS 3.2 or later
 
 ===========================================================================
 PACKAGING LIST:
@@ -37,6 +37,9 @@ Entry point for the application. Creates the application object and causes the e
 
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
+
+Version 1.8
+- Upgraded project to build with the iOS 4.0 SDK.
 
 Version 1.7
 - Updated for and tested with iPhone OS 2.0. First public release.
@@ -67,4 +70,4 @@ Version 1.1
 - Updated for Beta 2. 
 
 ===========================================================================
-Copyright (C) 2008 Apple Inc. All rights reserved.
+Copyright (C) 2008-2010 Apple Inc. All rights reserved.
